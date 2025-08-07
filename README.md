@@ -1,6 +1,6 @@
 João Victor Reis Lisboa
 
-Graduando em Sistemas de Informação na Univerdidade Federal do Pará
+Graduando em Sistemas de Informação na Universidade Federal do Pará
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=joaovictor-rl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
