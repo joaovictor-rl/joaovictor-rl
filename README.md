@@ -15,7 +15,7 @@ Sou estagiário de Suporte Técnico na Escola de Música da UFPA, onde cuido do 
     <td width="50%" valign="top">
       <a href="https://joaovictor-rl.github.io/Portfolio/#p-musa"><img src="https://raw.githubusercontent.com/joaovictor-rl/Portfolio/main/assets/img/musa.jpg" alt="Conversa com a Musa, que cita a fonte das respostas e recusa uma tentativa de prompt injection"></a>
       <h3><a href="https://joaovictor-rl.github.io/Portfolio/#p-musa">Musa</a></h3>
-      <p>Assistente com IA que tira dúvidas dos alunos da Escola de Música da UFPA sobre cursos e editais. Usa um LLM local num servidor da própria escola, sem API paga, com RAG sobre os documentos oficiais, citação da fonte e filtro contra perguntas fora do tema e prompt injection. Em desenvolvimento, só na rede interna da UFPA.</p>
+      <p>Assistente com IA que tira dúvidas dos alunos da Escola de Música da UFPA sobre cursos e editais. Usa um LLM local num servidor que montei, sem API paga, com RAG sobre os documentos oficiais, citação da fonte e filtro contra perguntas fora do tema e prompt injection. Em desenvolvimento, só na rede interna da UFPA.</p>
       <p><b>Python · FastAPI · Ollama · RAG · PostgreSQL/pgvector · Ubuntu Server</b></p>
     </td>
     <td width="50%" valign="top">
@@ -44,7 +44,7 @@ Sou estagiário de Suporte Técnico na Escola de Música da UFPA, onde cuido do 
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/joaovictor-rl/cotas-impressao">Cotas de impressão</a></h3>
-      <p>Sistema de cotas diárias de impressão por usuário, em uso na reprografia da Escola de Música da UFPA para reduzir o desperdício de partituras. Roda no Linux sobre o CUPS, tem interface para usuários não técnicos e relatórios web no servidor da escola.</p>
+      <p>Sistema de cotas diárias de impressão por usuário, em uso na reprografia da Escola de Música da UFPA para reduzir o desperdício de partituras. Roda no Linux sobre o CUPS, tem interface para usuários não técnicos e relatórios web no servidor que montei.</p>
       <p><b>Python · Linux · CUPS</b></p>
     </td>
   </tr>
